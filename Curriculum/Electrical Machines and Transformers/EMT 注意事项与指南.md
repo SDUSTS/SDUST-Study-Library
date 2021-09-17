@@ -30,9 +30,9 @@
 
 在评估和学习活动期间，您需要分组在线工作。
 
-电子期刊数据库：*http://search.proquest.com/advanced?accountid=14245*
+电子期刊数据库：详细见学校课程文件
 
-哈佛参考：*http://utas.libguides.com/c.php?g=694429&p=4949375#s-lg-box-14924492*
+哈佛参考：详细见学校课程文件
 
 #### 课上：
 
