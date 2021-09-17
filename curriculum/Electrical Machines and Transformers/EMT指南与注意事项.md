@@ -28,9 +28,7 @@
 
 学生将全面了解**变压器、直流电机、感应电机**和**同步电机**。本单元为学生将来学习电力工程做好准备。
 
-## 具备知识
 
-![image-20210914082232512](C:\Users\mqc\AppData\Roaming\Typora\typora-user-images\image-20210914082232512.png)
 
 ##  注意事项
 
