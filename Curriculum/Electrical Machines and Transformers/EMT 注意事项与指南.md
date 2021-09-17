@@ -1,12 +1,8 @@
-# Machines and Transformers 课程指南
-
+# EMT注意事项与指南
 > 更新于2021-09-17
->
 > 作者：
->
 > * Suzhangs
->
-> 
+
 
 注意！
 
