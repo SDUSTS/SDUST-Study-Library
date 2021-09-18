@@ -1,6 +1,8 @@
 # <font color = DarkBlue >SDUST-Course-Materials</font >
 大概就是 电子版书籍、相关学习资料、作业答案和代码。整理的课程注意事项文档吧 :)
 
+电气、财经、斯威本资料都可以找到呦！
+
 # 介绍（Introduction） 
 
 ### 1. 内容
