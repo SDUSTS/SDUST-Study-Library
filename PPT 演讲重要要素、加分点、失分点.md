@@ -39,8 +39,8 @@ PPT是艺术。不精美的文本是艺术杀手。
 举例详细见图：
 
 
-<img src="url地址" width="50%" height="50%">
-https://github.com/SuZhangs/SDUST-sdust-Study-Materials/blob/main/Data/IMG/c69c1b253e52886cd1e35a8101c83ef3.jpg?raw=true
+<img src="https://github.com/SuZhangs/SDUST-sdust-Study-Materials/blob/main/Data/IMG/c69c1b253e52886cd1e35a8101c83ef3.jpg?raw=true" width="50%" height="50%">
+
 
 
 #### 加分点2：PPT可以加入背景音乐。
