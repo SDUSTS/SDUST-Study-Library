@@ -38,7 +38,7 @@ PPT是艺术。不精美的文本是艺术杀手。
 
 举例详细见图：
 
-![疫情新闻报道模板_AE模板下载(编号:4358007)_AE模板_VJ师网www.vjshi.com](https://pic.vjshi.com/2020-02-25/9e49cff2e4b905e7c393b38961eab2e3/online/c69c1b253e52886cd1e35a8101c83ef3.jpg?x-oss-process=style/resize_w_720)
+
 
 
 
