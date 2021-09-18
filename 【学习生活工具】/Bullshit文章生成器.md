@@ -11,7 +11,8 @@ GitHub链接  https://github.com/menzi11/BullshitGenerator
 
 只要输入一句话，系统就会给你一篇**万字长文**，这里只是个开头：
 
-![img](file:///C:\Users\mqc\AppData\Roaming\Tencent\Users\2149214351\QQ\WinTemp\RichOle\[F10D6G0W2L$MPN1L6J41EA.png)
+![F10D6G0W2L$MPN1L6J41EA](https://user-images.githubusercontent.com/88318878/133878134-d85f2f80-8ad3-46f8-ba6a-e4cc5dea0d6e.png)
+
 
 营养不够，废话来凑，像极了年少时憋不出作文的自己。
 
