@@ -1,11 +1,13 @@
 ---
 # 简介（Introduction） 
+如果您是第一次打开这个网站，请看[新手教程](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/%E6%96%B0%E4%BA%BA%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E5%95%A6%EF%BC%81.md)
 大概就是 电子版书籍、相关学习资料、作业答案和代码。整理的课程注意事项文档吧 :)
 交流学习用！ 希望大家能合理的利用这些资源！
 记得我刚刚到这所学校的时候，很多资源都要去Google 或者 百度 。学习资源的质量在网上参差不齐，而且不一定适合我们学生。
 而且不少同学都是中外合作专业，课程进度非常快，大部分知识都只能靠自学来掌握。
 为了让同学们更好的适应新的学习生活。我们在这里放入了很多优秀的学习资源，包括教学材料的PDF版本,历年的考试试卷,优秀保研同学的笔记,并提供各种复杂的课程的优秀作业和代码进行参考。
 电气、财经、斯威本资料都可以找到呦！
+如果您是其它高校的学生，或者您想看其它高校的学习资料，请点击[大学生资源库](https://github.com/Knowledge-Sharers/College-Student-Resource-Library)
 
 ---
 # 目录（Contents）
@@ -18,6 +20,7 @@
 * 软件工程导论
 * Electrical Machines and Transformers
 * Engineer Design
+* Human Resource Management 
 * 中国近代史
 * 军事理论
 * 思想道德与法制修养
