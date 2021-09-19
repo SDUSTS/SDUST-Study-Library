@@ -11,6 +11,14 @@
 电气、财经、斯威本资料都可以找到呦！
 **如果您是其它高校的学生，或者您想看其它高校的学习资料，请点击[大学生共享资源库](https://github.com/Knowledge-Sharers/College-Student-Resource-Library)。**
 
+### 平台
+（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
+为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
+
+QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
+GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
+GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整
+
 ---
 # 目录（Contents）
 
