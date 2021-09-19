@@ -9,7 +9,7 @@
 不少同学都是中外合作专业，课程进度非常快，大部分知识都只能靠自学来掌握。
 为了让同学们更好的适应新的学习生活。我们在这里放入了很多优秀的学习资源，包括教学材料的PDF版本,历年的考试试卷,优秀保研同学的笔记,并提供各种复杂的课程的优秀作业和代码进行参考。
 电气、财经、斯威本资料都可以找到呦！
-如果您是其它高校的学生，或者您想看其它高校的学习资料，请点击[大学生资源库](https://github.com/Knowledge-Sharers/College-Student-Resource-Library)
+**如果您是其它高校的学生，或者您想看其它高校的学习资料，请点击[大学生共享资源库](https://github.com/Knowledge-Sharers/College-Student-Resource-Library)。**
 
 ---
 # 目录（Contents）
