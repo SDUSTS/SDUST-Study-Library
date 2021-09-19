@@ -1,5 +1,5 @@
-#Human Resource Management
-Week 1
+# Human Resource Management
+## Week 1
 
 Employee= Worker/staff member
 SHRM: Strategic Human Resource Management (discussed in video)
@@ -100,7 +100,7 @@ Helps for corrective action
 
 
 
-WEEK 2
+## WEEK 2
 Resourcing and Talent Management
 Resourcing and talent management: Critical for business
 Incorporates aspects of HRM such as HR planning decisions, job descriptions, person specifications, recruitment and selection
@@ -264,7 +264,7 @@ Adverstiment
 
 
 
-WEEK 3
+## WEEK 3
 Job specifications
 
 
@@ -378,7 +378,7 @@ Logo of company
 
 
 
-WEEK 4
+## WEEK 4
  
 Measures in selection
  Reliability: Degree of consistency and dependable
