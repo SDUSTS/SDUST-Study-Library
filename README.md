@@ -80,8 +80,7 @@
 
 #### 3.1 如何贡献？
 
-若想为此仓库提交资料，请克隆本仓库后提PR(Pull Request)。
-
+若想为此仓库提交资料，请克隆本仓库后提PR(Pull Request)。 详细可以见[Pull Requset 教程](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Pull%20request.md)
 提交PR步骤如下（Web端Github进行）：
 
 1. Fork 本项目
