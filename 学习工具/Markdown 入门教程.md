@@ -6,10 +6,13 @@
 
 
 **（一）认识Markdown**
+Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
 
-![img](https://pic4.zhimg.com/80/b921a43a2e3bf0a04ffe90ed51292f75_720w.jpg)
+Markdown 能被使用来撰写电子书，如：Gitbook。
 
-简单的说，Markdown用简洁的语法代替排版，而不像一般我们用的字处理软件Word或Pages有大量的排版、字体设置。
+当前许多网站都广泛使用 Markdown 来撰写帮助文档或是用于论坛上发表消息。例如：GitHub、简书、reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge等。
+
+简单的说，Markdown用简洁的语法代替排版，而不像Word或Pages等，需要鼠标进行有大量的排版、字体设置。
 
 **一句话总结，它实际上是个非常简单、非常容易学习的排版语法。**
 
@@ -18,18 +21,14 @@
 > ***Windows平台：\***
 
 
-
 MarkPad，下载地址：[MarkPad](https://link.zhihu.com/?target=http%3A//code52.org/DownmarkerWPF/)
 
-![img](https://pic3.zhimg.com/0050fe900d6bd5bd68d22a4f27264552_b.png)
-
-
+Typora， 下载地址：[Typora](https://typora.io/)
 
 > ***Mac平台：\***
 
 推荐使用Mou（[25.io | Mou - Markdown editor for developers, on Mac OS X.](https://link.zhihu.com/?target=http%3A//25.io/mou/)）。
 
-![img](https://pica.zhimg.com/4c90402704c9346bbd2e3cd4ccfce341_b.png)
 
 **（三）Markdown语法的简要规则**
 
@@ -39,7 +38,7 @@ MarkPad，下载地址：[MarkPad](https://link.zhihu.com/?target=http%3A//code5
 
 注意：需要在 # 后加一个空格，这是最标准的Markdown语法。
 
-![img](https://pic3.zhimg.com/e7f89ad6d8753b4b7aced79b9a8ef792_b.png)
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/e7f89ad6d8753b4b7aced79b9a8ef792_720w.jpg" width="50%" height="50%">
 
 
 
@@ -49,7 +48,7 @@ MarkPad，下载地址：[MarkPad](https://link.zhihu.com/?target=http%3A//code5
 
 插入图片的地址需要图床，这里推荐SM.MS（[SM.MS](https://link.zhihu.com/?target=https%3A//sm.ms/)）的服务，生成URL地址即可。
 
-![img](https://pic3.zhimg.com/1f5cce6d1e1b72f6e5c3991129336b16_b.png)
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/1f5cce6d1e1b72f6e5c3991129336b16_720w.jpg" width="50%" height="50%">
 
 
 
@@ -57,7 +56,7 @@ MarkPad，下载地址：[MarkPad](https://link.zhihu.com/?target=http%3A//code5
 
 Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含 一段文本就是斜体的语法。
 
-![img](https://pica.zhimg.com/75f55c4fac0cd217deb51640b5622640_b.png)
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/75f55c4fac0cd217deb51640b5622640_720w.png" width="50%" height="50%">
 
 
 
@@ -67,7 +66,7 @@ Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是
 
 如果你是个程序猿，需要在文章里优雅的引用代码框，只需要用两个 ` 把中间的代码包裹起           来，使用Tab键即可缩进。
 
-![img](https://pic3.zhimg.com/75da9088a2cd67910a07554cdfc39e15_b.png)
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/75da9088a2cd67910a07554cdfc39e15_720w.png" width="50%" height="50%">
 
 
 
@@ -75,7 +74,7 @@ Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是
 
 分割线的语法只需要另起一行，连续输入三个星号 *** 即可。
 
-![img](https://pic1.zhimg.com/d9eaf93d02465af3eb7ab94cf1a2dce9_b.png)
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/d9eaf93d02465af3eb7ab94cf1a2dce9_720w.png" width="50%" height="50%">
 
 
 
