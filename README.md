@@ -106,10 +106,6 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 
 有充足时间精力而又富有热情的同学可以申请成为维护者。欢迎欢迎！！！
 
-#### 3.3贡献者列表（排名不分先后）
-
-- [SuZhangs](https://github.com/SuZhangs)
-
 ### 4. 许可与版权
 
 
