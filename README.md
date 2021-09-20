@@ -26,20 +26,6 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 
 在这个文件夹下是学校的各种课程。
 
-* C语言程序设计
-* 软件工程导论
-* Electrical Machines and Transformers
-* Engineer Design
-* Human Resource Management 
-* 中国近代史
-* 军事理论
-* 思想道德与法制修养
-* 大学物理
-* 电路分析基础
-* 高等数学
-* 概率论与数理统计
-* 工程数学线性代数
-
 ### 使用教程
 
 如果您对Github 。对本资源分享网站不熟悉，那么就打开它吧！
