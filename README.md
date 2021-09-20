@@ -24,12 +24,12 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 
 ## 贡献方法
 
-[**贡献指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md) 中介绍了各种为仓库做出贡献的方法，包括：新增资源、完善资源、提出改进意见和加入项目组 等。
+[**贡献指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md) 中介绍了各种为仓库做出贡献的方法，包括：新增资源、完善资源、提出改进意见和加入项目组 等。
 
 
 ## 其余事项
 
-[**贡献者名单**](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md) 中陈列了为本仓库做出贡献的人，感谢你们，:heart:
+[**贡献者名单**](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95.md) 中陈列了为本仓库做出贡献的人，感谢你们，:heart:
 
 [**仓库协议**](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/%E4%BB%93%E5%BA%93%E5%8D%8F%E8%AE%AE.md) 中包含了分享资源的规定、版权声明、免责声明和侵权处理等相关问题。
 
