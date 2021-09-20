@@ -38,7 +38,7 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 
 ### 联系方式
 
-如果您有任何问题，请通过电子邮件 与我联系。
+如果您有任何问题，请通过电子邮件flickerhope@foxmail.com 与我联系。
 
 **所有资料仅供交流学习！ 希望大家能合理的利用这些资源！**
 (本库部分内容摘录自 [Xovee/uestc-course](https://github.com/Xovee/uestc-course)仓库）
