@@ -20,7 +20,7 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 
 ## 学习工具
 
-[**学习工具**](./asset/学习工具.md)中介绍了多种学校方法，包括:PPT制作、思维导图制作、笔记软件选择 等。
+[**学习工具**](https://github.com/SuZhangs/SDUST-Study-Library/tree/main/tool)中介绍了多种学校方法，包括:PPT制作、思维导图制作、笔记软件选择 等。
 
 ## 贡献方法
 
