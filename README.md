@@ -8,10 +8,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/SuZhangs/SDUST-Study-Library.svg)
 
 ## 简单介绍
-为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
-QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
-GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
-GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整(引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) )。
+
+记得我刚刚到这所学校的时候，很多资源都要去Google 或者 百度 。学习资源的质量在网上参差不齐，而且不一定适合我们学生。记得我刚刚到这所学校的时候，很多资源都要去Google 或者 百度 。学习资源的质量在网上参差不齐，而且不一定适合我们学生。 而且课程进度非常快，大部分知识都只能靠自学来掌握。 为了让同学们更好的适应新的学习生活。我们搭建了这个平台。
+
 ## 使用方法
 
 [**使用指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md) 中介绍了多种仓库使用方法，包括：浏览器搜索、文件查找、资源下载、仓库 Clone、提交 Issue 等。
@@ -43,7 +42,10 @@ GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便�
 **所有资料仅供交流学习！ 希望大家能合理的利用这些资源！**
 (本库部分内容摘录自 [Xovee/uestc-course](https://github.com/Xovee/uestc-course)仓库）
 
-记得我刚刚到这所学校的时候，很多资源都要去Google 或者 百度 。学习资源的质量在网上参差不齐，而且不一定适合我们学生。记得我刚刚到这所学校的时候，很多资源都要去Google 或者 百度 。学习资源的质量在网上参差不齐，而且不一定适合我们学生。 而且课程进度非常快，大部分知识都只能靠自学来掌握。 为了让同学们更好的适应新的学习生活。我们搭建了这个平台。
+为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
+QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
+GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
+GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整(引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) )。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。如果存在资料有**侵权**问题，请私聊项目的维护人员予以删除
 
