@@ -38,7 +38,7 @@ Typora， 下载地址：[Typora](https://typora.io/)
 
 注意：需要在 # 后加一个空格，这是最标准的Markdown语法。
 
-<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/e7f89ad6d8753b4b7aced79b9a8ef792_720w.jpg" width="50%" height="50%">
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/img/e7f89ad6d8753b4b7aced79b9a8ef792_720w.jpg" width="50%" height="50%">
 
 
 
@@ -48,7 +48,7 @@ Typora， 下载地址：[Typora](https://typora.io/)
 
 插入图片的地址需要图床，这里推荐SM.MS（[SM.MS](https://link.zhihu.com/?target=https%3A//sm.ms/)）的服务，生成URL地址即可。
 
-<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/1f5cce6d1e1b72f6e5c3991129336b16_720w.jpg" width="50%" height="50%">
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/img/1f5cce6d1e1b72f6e5c3991129336b16_720w.jpg" width="50%" height="50%">
 
 
 
@@ -56,7 +56,7 @@ Typora， 下载地址：[Typora](https://typora.io/)
 
 Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含 一段文本就是斜体的语法。
 
-<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/75f55c4fac0cd217deb51640b5622640_720w.png" width="50%" height="50%">
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/img/75f55c4fac0cd217deb51640b5622640_720w.png" width="50%" height="50%">
 
 
 
@@ -66,7 +66,7 @@ Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是
 
 如果你是个程序猿，需要在文章里优雅的引用代码框，只需要用两个 ` 把中间的代码包裹起           来，使用Tab键即可缩进。
 
-<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/75da9088a2cd67910a07554cdfc39e15_720w.png" width="50%" height="50%">
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/img/75da9088a2cd67910a07554cdfc39e15_720w.png" width="50%" height="50%">
 
 
 
@@ -74,7 +74,7 @@ Markdown的粗体和斜体也非常简单，用两个 * 包含一段文本就是
 
 分割线的语法只需要另起一行，连续输入三个星号 *** 即可。
 
-<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/Data/IMG/d9eaf93d02465af3eb7ab94cf1a2dce9_720w.png" width="50%" height="50%">
+<img src="https://github.com/SuZhangs/SDUST-Study-Library/blob/main/assest/img/d9eaf93d02465af3eb7ab94cf1a2dce9_720w.png" width="50%" height="50%">
 
 
 
