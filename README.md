@@ -19,7 +19,7 @@
 
 ## 学习工具
 
-[**每日一题**](https://github.com/SDUSTS/SDUST-Study-Library/tree/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98)中包含了编程习题。推荐软件工程、信管、计科、通信、电气等专业相关参与。并鼓励大家在习题库里issue自己的问题，并Pull Requst 向大家推荐您不一样的或者更好的代码。
+[**每日一题**](https://github.com/SDUSTS/SDUST-Study-Library/tree/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98)中包含了编程习题。推荐软件工程、信管、计科、通信、电气等专业相关参与。并鼓励大家在习题库里issue自己的问题，在Pull Requst 向大家推荐您不一样的或者更好的代码。
 
 [**学习工具**](https://github.com/SuZhangs/SDUST-Study-Library/tree/main/tool)中介绍了多种学校方法，包括:PPT制作、思维导图制作、笔记软件选择 等。
 
